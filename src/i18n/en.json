@@ -1,0 +1,116 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "team": "Team",
+    "careers": "Careers",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Est. 2026 — Varna, Bulgaria",
+    "title1": "Where",
+    "title_industry": "industry",
+    "title2": "meets",
+    "title_innovation": "innovation",
+    "subtitle": "Two decades of hands-on experience inside reactor vessels and server rooms — unified into a single company that delivers excellence across both worlds.",
+    "cta": "Get in touch"
+  },
+  "sectors": {
+    "industrial": {
+      "title": "Industrial services",
+      "description": "Reactor specialists and catalyst changeout crews serving Europe's leading refineries. Proven track record at Shell, ExxonMobil, BP, Neste, and ORLEN.",
+      "tags": ["Catalyst changeout", "Reactor servicing", "Supervision"],
+      "link": "gembaindustrial.com"
+    },
+    "tech": {
+      "title": "IT solutions",
+      "description": "Full-stack software development, DevOps infrastructure, payment systems, and Web3 blockchain solutions. We build, deploy, and maintain your technology.",
+      "tags": ["DevOps", "Full-stack", "Web3", "Payments"],
+      "link": "gembait.com"
+    }
+  },
+  "stats": {
+    "years_it": "Years in IT",
+    "years_industry": "Years in industry",
+    "refineries": "Major refineries"
+  },
+  "quote": {
+    "text": "We don't outsource our expertise. We are the expertise. Born from real work inside reactor vessels and server rooms — not from a business plan template.",
+    "attr": "— The GEMBA Team philosophy"
+  },
+  "about": {
+    "page_title": "About us",
+    "story_title": "Our story",
+    "story_p1": "GEMBA Team was born from an unusual journey. Our founder spent over a decade working in two parallel worlds — servicing reactors and managing catalyst changeouts at some of Europe's most demanding refineries, while simultaneously building server infrastructure, payment systems, and blockchain solutions from the ground up.",
+    "story_p2": "This isn't a corporate story written by a marketing department. It's the story of someone who has crawled inside reactor vessels at Shell and ExxonMobil, and then sat down to write the code that processes payments for merchants across three blockchain networks. Someone who understands both the weight of a catalyst bed and the weight of a database under load.",
+    "story_p3": "In January 2026, these two worlds became one company. GEMBA Team brings together industrial services and technology under a single roof — not as a corporate experiment, but as a natural evolution of real, lived experience.",
+    "story_p4": "We don't outsource our expertise. We are the expertise.",
+    "mission_title": "Mission",
+    "mission": "To deliver industrial and technology services of uncompromising quality, built on first-hand experience and driven by the belief that real expertise cannot be shortcuts.",
+    "vision_title": "Vision",
+    "vision": "To become the partner of choice for businesses that refuse to compromise — whether they need a reactor serviced or a payment system built."
+  },
+  "team": {
+    "page_title": "Team",
+    "leadership": "Leadership",
+    "name": "Slavcho Ivanov",
+    "role": "Managing Director & Founder",
+    "bio": "Over 10 years of experience in catalyst changeout operations and reactor servicing at major European refineries including Shell, ExxonMobil, BP, Neste, and ORLEN. Simultaneously, 20+ years of self-taught expertise in IT infrastructure, DevOps, full-stack development, and blockchain technology. SCC/VCA certified (TÜV Rheinland), BA/N2 inert entry qualified, with additional certifications in confined space operations, crane operation, rigging, and forklift handling. Education in Public Administration with advanced studies in Cybersecurity.",
+    "tagline": "The rare professional who can service a reactor on Monday and deploy a payment gateway on Tuesday."
+  },
+  "careers": {
+    "page_title": "Careers",
+    "intro_title": "Join GEMBA Team",
+    "intro": "We're building something different — a company where industrial grit meets technological innovation. If you thrive in environments where no two days are the same, we want to hear from you.",
+    "open_positions": "Open positions",
+    "marketing_title": "Marketing Specialist",
+    "marketing_desc": "We're looking for a Marketing Specialist to drive the growth of both our industrial and IT divisions. You'll be responsible for building our brand presence, creating content strategies, managing digital campaigns, and helping us reach clients across Europe and beyond.",
+    "we_need": "What we need",
+    "needs": [
+      "Experience in B2B marketing, preferably in tech or industrial sectors",
+      "Strong content creation skills",
+      "Understanding of SEO, social media, and digital advertising",
+      "Ability to work independently and take ownership",
+      "English fluency required; Bulgarian and/or Spanish is a plus"
+    ],
+    "we_offer": "What we offer",
+    "offers": [
+      "Remote-friendly work environment",
+      "Direct collaboration with the founder",
+      "The opportunity to shape the marketing strategy of a growing company from day one",
+      "Competitive compensation"
+    ],
+    "no_role_title": "Don't see your role?",
+    "no_role": "We're always looking for talented people. Send us your CV and tell us what you can bring to GEMBA Team.",
+    "send_cv": "Send your CV",
+    "apply": "Apply now"
+  },
+  "contact": {
+    "page_title": "Contact",
+    "title": "Get in touch",
+    "subtitle": "Whether you need reactor specialists for your next turnaround or a technology partner for your next project — we're here.",
+    "email_label": "Email",
+    "email": "contacts@gembateam.com",
+    "location_label": "Location",
+    "location": "Varna, Bulgaria",
+    "operating": "Operating across Europe",
+    "form": {
+      "name": "Your name",
+      "email": "Your email",
+      "subject": "Subject",
+      "message": "Your message",
+      "send": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Something went wrong. Please try again."
+    }
+  },
+  "footer": {
+    "company": "GEMBA Team EOOD",
+    "eik": "EIK: 208656371",
+    "location": "Varna, Bulgaria",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "rights": "All rights reserved"
+  }
+}

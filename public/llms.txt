@@ -1,0 +1,43 @@
+# GEMBA Team
+
+> GEMBA Team EOOD (EIK: 208656371) is a Bulgarian company uniting industrial services and IT solutions under one roof. Founded in 2026 in Varna, Bulgaria, by Slavcho Ivanov — a professional with over 10 years of hands-on reactor servicing experience at Shell, ExxonMobil, BP, Neste, and ORLEN, combined with 20+ years of IT infrastructure, DevOps, full-stack development, and blockchain expertise.
+
+## Company Structure
+
+GEMBA Team operates through two divisions:
+
+### Industrial Services (gembaindustrial.com)
+- Catalyst changeout operations and reactor servicing
+- Supervision of refinery turnarounds and planned maintenance shutdowns
+- Crew deployment across major European refineries
+- SCC/VCA certified (TÜV Rheinland), BA/N2 inert entry qualified
+
+### IT Solutions (gembait.com)
+- Full-stack software development (Node.js, React, PostgreSQL, MongoDB, MariaDB)
+- Linux server infrastructure and DevOps on Hetzner cloud
+- Payment system integration (Stripe, PayPal, cryptocurrency)
+- Web3/Blockchain development and smart contract auditing (Solidity, EVM networks)
+- Real-time monitoring systems for servers and industrial infrastructure
+- Access control systems, video surveillance, admin panels
+- MVP development and ongoing maintenance subscriptions
+
+## Products
+
+### GembaPay (gembapay.com)
+Non-custodial payment gateway enabling merchants to accept cryptocurrency and fiat payments through a single API integration. Supports Ethereum, Binance Smart Chain, and Polygon networks with USDC, USDT, EURC, and native tokens. Certified Stripe marketplace and PayPal PPCP partner. 1% transaction fee. Merchants receive funds directly — funds are never held.
+
+### Atlas (In Development)
+Modular SaaS platform for workforce and operations management in industrial sectors — refineries, shipyards, catalyst changeout companies, railway operators, and construction. Features include shift planning, check-in/check-out, inventory tracking, digital work permits, and AI assistant.
+
+## Contact
+- Website: https://gembateam.com
+- Email: contacts@gembateam.com
+- Location: Varna, Bulgaria
+- Operating across Europe
+
+## Links
+- Industrial Services: https://gembaindustrial.com
+- IT Solutions: https://gembait.com
+- GembaPay: https://gembapay.com
+- GitHub: https://github.com/ivanovslavy
+- LinkedIn: https://linkedin.com/in/slavcho-ivanov
