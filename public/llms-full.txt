@@ -29,23 +29,19 @@ Full-stack software development company offering:
 - Backend development: Node.js, Express.js, RESTful APIs, GraphQL
 - Frontend development: React, single-page applications, progressive web apps
 - Database architecture: PostgreSQL, MongoDB, MariaDB
-- Payment integrations: Stripe Connect, PayPal PPCP, cryptocurrency (Ethereum, BSC, Polygon)
-- Web3/Blockchain: Solidity smart contract development and auditing
+- Payment integrations: Stripe Connect, PayPal PPCP
+- Smart contracts: Solidity development and security auditing
 - Monitoring systems: real-time dashboards for servers and industrial infrastructure
 - Access control systems: check-in/check-out workforce management
 - Video surveillance: CCTV with alarm notifications and security company integration
 - MVP development and ongoing maintenance subscriptions
 
 ## Products
-1. GembaPay (https://gembapay.com) — Live production payment gateway
+1. GembaPay (https://gembapay.com) — Payment gateway for merchants
    - Non-custodial architecture (never holds merchant funds)
-   - Single API for crypto and fiat payments
-   - Supports Ethereum, Binance Smart Chain, Polygon
-   - Tokens: USDC, USDT, EURC, native tokens (ETH, BNB, MATIC)
-   - Certified Stripe marketplace partner
-   - Certified PayPal PPCP partner
+   - Card and PayPal checkout through a single API integration
+   - Built on Stripe Connect and PayPal Partner Commerce
    - 1% transaction fee
-   - Open-source blockchain protocols
    - KYC/AML compliance procedures for merchant onboarding
    - Infrastructure: Hetzner servers (Germany) with failover and database replication
 
@@ -58,7 +54,7 @@ Full-stack software development company offering:
 ## Frequently Asked Questions
 
 Q: What is GEMBA Team?
-A: GEMBA Team EOOD is a Bulgarian company combining industrial services (reactor servicing, catalyst changeout) with IT solutions (software development, DevOps, payment systems, blockchain). Founded in 2026 in Varna, Bulgaria.
+A: GEMBA Team EOOD is a Bulgarian company combining industrial services (reactor servicing, catalyst changeout) with IT solutions (software development, DevOps, payment systems, monitoring). Founded in 2026 in Varna, Bulgaria.
 
 Q: Does GEMBA Team operate outside Bulgaria?
 A: Yes, GEMBA Team operates across Europe. Industrial crews are deployed to refineries in Finland, Lithuania, Germany, Netherlands, and other countries. IT services are provided remotely to clients worldwide.
@@ -67,7 +63,7 @@ Q: What makes GEMBA Team different?
 A: GEMBA Team is founded by a professional who has real hands-on experience in both industrial reactor servicing and IT software development — a rare combination that brings practical, reliability-focused thinking to technology projects and technical understanding to industrial operations.
 
 Q: What is GembaPay?
-A: GembaPay is a non-custodial payment gateway that enables merchants to accept both cryptocurrency and traditional (fiat) payments through a single API integration. It supports Ethereum, BSC, and Polygon networks, and is a certified Stripe marketplace and PayPal partner.
+A: GembaPay is a non-custodial payment gateway that lets merchants accept card and PayPal payments through a single API integration. It is built on Stripe Connect and PayPal Partner Commerce, and merchants are paid directly into their own accounts.
 
 Q: Is GEMBA Team hiring?
 A: Yes, GEMBA Team is actively looking for a Marketing Specialist to drive growth across both divisions. Remote work is available. Visit https://gembateam.com/en/careers for details.

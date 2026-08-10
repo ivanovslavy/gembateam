@@ -24,8 +24,8 @@
     },
     "tech": {
       "title": "Soluciones IT",
-      "description": "Desarrollo de software full-stack, infraestructura DevOps, sistemas de pago y soluciones Web3 blockchain. Construimos, desplegamos y mantenemos su tecnología.",
-      "tags": ["DevOps", "Full-stack", "Web3", "Pagos"],
+      "description": "Desarrollo de software full-stack, infraestructura DevOps, sistemas de pago y plataformas web. Construimos, desplegamos y mantenemos su tecnología.",
+      "tags": ["DevOps", "Full-stack", "Monitorización", "Pagos"],
       "link": "gembait.com"
     }
   },
@@ -41,8 +41,8 @@
   "about": {
     "page_title": "Sobre nosotros",
     "story_title": "Nuestra historia",
-    "story_p1": "GEMBA Team nació de un viaje inusual. Nuestro fundador pasó más de una década trabajando en dos mundos paralelos — dando servicio a reactores y gestionando cambios de catalizadores en algunas de las refinerías más exigentes de Europa, mientras simultáneamente construía infraestructura de servidores, sistemas de pago y soluciones blockchain desde cero.",
-    "story_p2": "Esta no es una historia corporativa escrita por un departamento de marketing. Es la historia de alguien que ha entrado en recipientes de reactores en Shell y ExxonMobil, y luego se ha sentado a escribir el código que procesa pagos para comerciantes en tres redes blockchain. Alguien que entiende tanto el peso de un lecho catalítico como el peso de una base de datos bajo carga.",
+    "story_p1": "GEMBA Team nació de un viaje inusual. Nuestro fundador pasó más de una década trabajando en dos mundos paralelos — dando servicio a reactores y gestionando cambios de catalizadores en algunas de las refinerías más exigentes de Europa, mientras simultáneamente construía infraestructura de servidores, sistemas de pago y plataformas web desde cero.",
+    "story_p2": "Esta no es una historia corporativa escrita por un departamento de marketing. Es la historia de alguien que ha entrado en recipientes de reactores en Shell y ExxonMobil, y luego se ha sentado a escribir el código que procesa pagos con tarjeta y PayPal para comerciantes. Alguien que entiende tanto el peso de un lecho catalítico como el peso de una base de datos bajo carga.",
     "story_p3": "En enero de 2026, estos dos mundos se convirtieron en una sola empresa. GEMBA Team reúne servicios industriales y tecnología bajo un mismo techo — no como un experimento corporativo, sino como una evolución natural de experiencia real y vivida.",
     "story_p4": "No externalizamos nuestra experiencia. Nosotros somos la experiencia.",
     "mission_title": "Misión",

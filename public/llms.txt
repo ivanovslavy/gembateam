@@ -15,8 +15,8 @@ GEMBA Team operates through two divisions:
 ### IT Solutions (gembait.com)
 - Full-stack software development (Node.js, React, PostgreSQL, MongoDB, MariaDB)
 - Linux server infrastructure and DevOps on Hetzner cloud
-- Payment system integration (Stripe, PayPal, cryptocurrency)
-- Web3/Blockchain development and smart contract auditing (Solidity, EVM networks)
+- Payment system integration (Stripe, PayPal)
+- Smart-contract development and security auditing (Solidity, EVM networks)
 - Real-time monitoring systems for servers and industrial infrastructure
 - Access control systems, video surveillance, admin panels
 - MVP development and ongoing maintenance subscriptions
@@ -24,7 +24,7 @@ GEMBA Team operates through two divisions:
 ## Products
 
 ### GembaPay (gembapay.com)
-Non-custodial payment gateway enabling merchants to accept cryptocurrency and fiat payments through a single API integration. Supports Ethereum, Binance Smart Chain, and Polygon networks with USDC, USDT, EURC, and native tokens. Certified Stripe marketplace and PayPal PPCP partner. 1% transaction fee. Merchants receive funds directly — funds are never held.
+Payment gateway for merchants: card and PayPal checkout through a single API integration, built on Stripe Connect and PayPal Partner Commerce. Merchants receive funds directly into their own accounts — funds are never held. 1% platform fee. The infrastructure runs in production; the merchant base is still being built.
 
 ### Atlas (In Development)
 Modular SaaS platform for workforce and operations management in industrial sectors — refineries, shipyards, catalyst changeout companies, railway operators, and construction. Features include shift planning, check-in/check-out, inventory tracking, digital work permits, and AI assistant.

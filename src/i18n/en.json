@@ -24,8 +24,8 @@
     },
     "tech": {
       "title": "IT solutions",
-      "description": "Full-stack software development, DevOps infrastructure, payment systems, and Web3 blockchain solutions. We build, deploy, and maintain your technology.",
-      "tags": ["DevOps", "Full-stack", "Web3", "Payments"],
+      "description": "Full-stack software development, DevOps infrastructure, payment systems, and web platforms. We build, deploy, and maintain your technology.",
+      "tags": ["DevOps", "Full-stack", "Monitoring", "Payments"],
       "link": "gembait.com"
     }
   },
@@ -41,8 +41,8 @@
   "about": {
     "page_title": "About us",
     "story_title": "Our story",
-    "story_p1": "GEMBA Team was born from an unusual journey. Our founder spent over a decade working in two parallel worlds — servicing reactors and managing catalyst changeouts at some of Europe's most demanding refineries, while simultaneously building server infrastructure, payment systems, and blockchain solutions from the ground up.",
-    "story_p2": "This isn't a corporate story written by a marketing department. It's the story of someone who has crawled inside reactor vessels at Shell and ExxonMobil, and then sat down to write the code that processes payments for merchants across three blockchain networks. Someone who understands both the weight of a catalyst bed and the weight of a database under load.",
+    "story_p1": "GEMBA Team was born from an unusual journey. Our founder spent over a decade working in two parallel worlds — servicing reactors and managing catalyst changeouts at some of Europe's most demanding refineries, while simultaneously building server infrastructure, payment systems, and web platforms from the ground up.",
+    "story_p2": "This isn't a corporate story written by a marketing department. It's the story of someone who has crawled inside reactor vessels at Shell and ExxonMobil, and then sat down to write the code that processes card and PayPal payments for merchants. Someone who understands both the weight of a catalyst bed and the weight of a database under load.",
     "story_p3": "In January 2026, these two worlds became one company. GEMBA Team brings together industrial services and technology under a single roof — not as a corporate experiment, but as a natural evolution of real, lived experience.",
     "story_p4": "We don't outsource our expertise. We are the expertise.",
     "mission_title": "Mission",
