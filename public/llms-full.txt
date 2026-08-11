@@ -30,6 +30,7 @@ Full-stack software development company offering:
 - Frontend development: React, single-page applications, progressive web apps
 - Database architecture: PostgreSQL, MongoDB, MariaDB
 - Payment integrations: Stripe Connect, PayPal PPCP
+- Monitoring systems: real-time dashboards for servers and industrial infrastructure
 - Smart contracts: Solidity development and security auditing
 - Monitoring systems: real-time dashboards for servers and industrial infrastructure
 - Access control systems: check-in/check-out workforce management
@@ -38,11 +39,11 @@ Full-stack software development company offering:
 
 ## Products
 1. GembaPay (https://gembapay.com) — Payment gateway for merchants
-   - Non-custodial architecture (never holds merchant funds)
+   - Direct-settlement architecture (never holds merchant funds)
    - Card and PayPal checkout through a single API integration
-   - Built on Stripe Connect and PayPal Partner Commerce
+   - Built on Stripe Connect and the PayPal Commerce Platform
    - 1% transaction fee
-   - KYC/AML compliance procedures for merchant onboarding
+   - Merchant onboarding and verification handled by Stripe and PayPal
    - Infrastructure: Hetzner servers (Germany) with failover and database replication
 
 2. Atlas (In Development) — Modular SaaS for industrial workforce management

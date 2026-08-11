@@ -62,8 +62,6 @@ export default function Footer() {
             © 2026 {t('footer.company')}. {t('footer.rights')}.
           </p>
           <div className="flex gap-4">
-            <Link to={`/${lang}/privacy`} className="text-xs no-underline" style={{ color: 'var(--text-tertiary)' }}>{t('footer.privacy')}</Link>
-            <Link to={`/${lang}/terms`} className="text-xs no-underline" style={{ color: 'var(--text-tertiary)' }}>{t('footer.terms')}</Link>
           </div>
         </div>
       </div>
